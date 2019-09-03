@@ -1,6 +1,6 @@
 https://travis-ci.org/KarlCPH/travisGettingStarted.svg?branch=master
 
-[![Build Status](https://travis-ci.org/KarlCPH/travisGettingStarted)](https://travis-ci.org/KarlCPH/travisGettingStarted)
+[![Build Status](https://travis-ci.org/KarlCPH/travisGettingStarted.svg?branch=master)](https://travis-ci.org/KarlCPH/travisGettingStarted)
 
 Ultra simple Java Project meant for a Travis introduction
 
